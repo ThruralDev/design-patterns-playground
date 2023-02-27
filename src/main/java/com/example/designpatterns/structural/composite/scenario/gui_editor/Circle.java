@@ -1,4 +1,4 @@
-package com.example.designpatterns.behavioral.composite.scenario.gui_editor;
+package com.example.designpatterns.structural.composite.scenario.gui_editor;
 
 public class Circle extends Dot{
 

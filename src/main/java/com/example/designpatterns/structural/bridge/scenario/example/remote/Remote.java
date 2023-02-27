@@ -1,6 +1,6 @@
-package com.example.designpatterns.behavioral.bridge.scenario.example.remote;
+package com.example.designpatterns.structural.bridge.scenario.example.remote;
 
-import com.example.designpatterns.behavioral.bridge.scenario.example.device.Device;
+import com.example.designpatterns.structural.bridge.scenario.example.device.Device;
 
 public class Remote {
 

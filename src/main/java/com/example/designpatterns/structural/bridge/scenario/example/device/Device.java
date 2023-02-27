@@ -1,4 +1,4 @@
-package com.example.designpatterns.behavioral.bridge.scenario.example.device;
+package com.example.designpatterns.structural.bridge.scenario.example.device;
 
 public interface Device {
 

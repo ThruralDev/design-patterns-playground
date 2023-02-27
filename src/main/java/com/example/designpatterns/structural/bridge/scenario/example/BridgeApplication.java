@@ -1,8 +1,8 @@
-package com.example.designpatterns.behavioral.bridge.scenario.example;
+package com.example.designpatterns.structural.bridge.scenario.example;
 
-import com.example.designpatterns.behavioral.bridge.scenario.example.device.Radio;
-import com.example.designpatterns.behavioral.bridge.scenario.example.device.TV;
-import com.example.designpatterns.behavioral.bridge.scenario.example.remote.Remote;
+import com.example.designpatterns.structural.bridge.scenario.example.device.Radio;
+import com.example.designpatterns.structural.bridge.scenario.example.device.TV;
+import com.example.designpatterns.structural.bridge.scenario.example.remote.Remote;
 
 public class BridgeApplication {
 

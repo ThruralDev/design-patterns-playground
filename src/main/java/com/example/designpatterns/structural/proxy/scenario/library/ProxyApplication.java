@@ -1,6 +1,6 @@
-package com.example.designpatterns.behavioral.proxy.scenario.library;
+package com.example.designpatterns.structural.proxy.scenario.library;
 
-import com.example.designpatterns.behavioral.proxy.scenario.library.third_party.YouTubeClass;
+import com.example.designpatterns.structural.proxy.scenario.library.third_party.YouTubeClass;
 
 public class ProxyApplication {
 

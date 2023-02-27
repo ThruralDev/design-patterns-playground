@@ -1,4 +1,4 @@
-package com.example.designpatterns.behavioral.proxy.scenario.library.third_party;
+package com.example.designpatterns.structural.proxy.scenario.library.third_party;
 
 public interface YouTubeApi {
 
